@@ -1,0 +1,18 @@
+{
+    "disk_space": 1073741824,
+    "oversell": "1000",
+    "user_path": "/opt/proftpd/",
+    "user_uid": 110,
+    "user_gid": 65534,
+    "user_shell": "/bin/false",
+    "mysql_ip": "127.0.0.1",
+    "mysql_port": 3306,
+    "mysql_login": "proftpd",
+    "mysql_password": "PaSSworD332",
+    "mysql_database": "proftpd",
+    "allow_protocol": [
+        "ftp",
+        "scp"
+    ],
+    "api_token": "Z23MTphrPZKf3ksgBx7WtcTJ"
+}
